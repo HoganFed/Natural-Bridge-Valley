@@ -37,9 +37,9 @@
 
 </html>
 
-[View of Battleship Rock From Atop Natural Bridge](BattleshipRock.jpg)
+![View of Battleship Rock From Atop Natural Bridge](BattleshipRock.jpg)
 Photo Taken by: Hogan Federmann
 
-[View of Natural Bridge From Atop Battleship Rock](NaturalBridge.jpg)
+![View of Natural Bridge From Atop Battleship Rock](NaturalBridge.jpg)
 Photo Taken by: Hogan Federmann
 
