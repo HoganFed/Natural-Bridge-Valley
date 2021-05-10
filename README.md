@@ -1,6 +1,6 @@
 # Natural-Bridge-Valley
 
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -27,7 +27,6 @@
 
 <body>
   <section>
-    <h1>Hello World!</h1>
     <h2>Take a tour of Natural Bridge Valley</h2>
 
     <!-- 💡💡💡 paste embed code below -->
