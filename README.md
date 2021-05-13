@@ -9,6 +9,10 @@
 
 [Interactive MapBox Page](map/index.html)
 
+### Maps created by Hogan Federmann using Cesium Ion and MapBox.
+
+## Page created for UK GEO 409 Final Project by Hogan Federmann produced on May 13th, 2021.
+
 
 ![View of Battleship Rock From Atop Natural Bridge](BattleshipRock.jpg)
 Photo Taken by: Hogan Federmann
