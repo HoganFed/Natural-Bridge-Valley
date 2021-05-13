@@ -1,10 +1,13 @@
 
 # Natural Bridge Valley
 
+# Introduction:
 ## Natural Bridge was established as a State Park in 1926. It was a major tourist destination before that though. The arch stretches 78 feet and is 65 feet high, the top where you can walk across spans 30 feet wide.
 
 ## Once you either hike up to Natural Bridge or take the sky lift, you can take a 10-15 minute hike over to Battleship Rock for a great view of Natural Bridge and the surrounding valley.
 
+# Goals:
+## The goal of this project is to showcase Natural Bridge Valley and offer different views utilizing different maps and photos of the area.
 
 [Cesium Ion Presentation of Natural Bridge Valley](slideshow/index.html)
 
